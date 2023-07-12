@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onkar Singh</h1>
-<img src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/boy-01.png" alt="Gif" height="200px" width="100%">
+<img src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/boy-01.png" alt="Gif" height="50%" width="50%">
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on **React Projects**
