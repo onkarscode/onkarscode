@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onkar Singh</h1>
-<img src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/boy-01.png" alt="Gif" height="50%" width="50%" style="display=inline;">
-<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/boy-01.png" alt="Gif" ">
+<h3 align="center">Coding like poetry should be short and concise.</h3>
 
 - 🔭 I’m currently working on **React Projects**
 
@@ -8,7 +8,7 @@
 
 - ⚡ Fun fact **Watch Anime In My Free Time...**
 
-<h3 align="left" style="display=inline;">Connect with me:</h3>
+<h3 align="left" ">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/onkarscode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="onkarscode" height="30" width="40" /></a>
 <a href="https://instagram.com/onkarsingh_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="onkarsingh_16" height="30" width="40" /></a>
