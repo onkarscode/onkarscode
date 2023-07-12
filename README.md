@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onkar Singh</h1>
 <img src="https://cdn.dribbble.com/users/4467980/screenshots/10066515/boy-01.png" alt="Gif" ">
-<h3 align="center">Coding like poetry should be short and concise.</h3>
+<h3 align="center">Coding is like poetry should be short and concise.</h3>
 
 - 🔭 I’m currently working on **React Projects**
 
